@@ -1,0 +1,37 @@
+{
+    "det_imgs_path": {
+        "dog": [
+            "dog_det_0.jpg",
+            "dog_det_1.jpg",
+            "dog_det_2.jpg",
+            "dog_det_4.jpg"
+        ],
+        "person": [
+            "person_det_3.jpg",
+            "person_det_5.jpg"
+        ],
+        "bench": [
+            "bench_det_6.jpg"
+        ]
+    },
+    "mask_imgs_path": {
+        "dog": [
+            "dog_mask_0_mask.jpg",
+            "dog_mask_1_mask.jpg",
+            "dog_mask_2_mask.jpg",
+            "dog_mask_4_mask.jpg"
+        ],
+        "person": [
+            "person_mask_3_mask.jpg",
+            "person_mask_5_mask.jpg"
+        ],
+        "bench": [
+            "bench_mask_6_mask.jpg"
+        ]
+    },
+    "labels": [
+        "dog",
+        "person",
+        "bench"
+    ]
+}
